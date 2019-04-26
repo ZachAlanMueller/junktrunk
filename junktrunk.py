@@ -143,5 +143,5 @@ def getPsuedoRandomPassword():
 
 
 for x in range(50):
-  #getPsuedoRandomEmail()
+  getPsuedoRandomEmail()
   getPsuedoRandomPassword()
